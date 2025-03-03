@@ -1,14 +1,11 @@
 # GhostHunters
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Features](#features)
-- [Game Structure](#game-structure)
-- [Controls](#controls)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
+![Picture1](https://github.com/user-attachments/assets/1dbfdd5a-4121-4f16-961c-e50e8d1e3422)
+![Picture2](https://github.com/user-attachments/assets/07c37784-8a8f-4ef0-a86b-2ccd27dd8d10)
+![Picture3](https://github.com/user-attachments/assets/a6dcfb80-bfd4-4839-9c87-f1588fd28269)
+![Picture4](https://github.com/user-attachments/assets/437d9dae-e5fc-4012-bd49-dd1d150f9464)
+![Picture5](https://github.com/user-attachments/assets/a88eda45-980d-4f3f-a1d7-84fa2645a9e1)
+![Picture6](https://github.com/user-attachments/assets/a65cb7f0-57a6-4920-84ca-817e7e011574)
+![Picture7](https://github.com/user-attachments/assets/85d3c658-43ea-46de-8aaf-fa5115cbbe9d)
 
 ## Introduction
 **GhostHunters** is a 2D maze game where players navigate through a maze to collect coins while avoiding ghosts. The game offers multiple difficulty levels, high score tracking, and various scenes, including a start menu, help screen, and score display. The objective is to collect all coins in the maze and avoid the ghosts to win.
@@ -47,12 +44,3 @@
 - **Arrow Keys**: Move the player character (Up, Down, Left, Right).
 - **Enter**: Select menu options (e.g., start the game, select difficulty, etc.).
 - **Escape**: Return to the main menu during gameplay.
-
-## Screenshots
-![Picture7](https://github.com/user-attachments/assets/518a1f35-cfff-47d3-8795-1e5a98835081)
-![Picture6](https://github.com/user-attachments/assets/aec5fe8d-5f26-4e7c-b184-219dcbaf0b55)
-![Picture5](https://github.com/user-attachments/assets/4387980f-b82a-4ea4-bd1e-188dec7c4b0f)
-![Picture4](https://github.com/user-attachments/assets/d2009f31-049a-42a7-ad7a-88287cbd73fc)
-![Picture3](https://github.com/user-attachments/assets/ee498a3a-1fc6-44c9-8f66-3508e97407cf)
-![Picture2](https://github.com/user-attachments/assets/a9edf8ef-0fc2-4de3-80c7-09fbef8184df)
-![Picture1](https://github.com/user-attachments/assets/6915f27b-1aed-4578-b513-f21a2ec98f48)
