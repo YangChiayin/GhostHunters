@@ -13,32 +13,6 @@
 ## Introduction
 **GhostHunters** is a 2D maze game where players navigate through a maze to collect coins while avoiding ghosts. The game offers multiple difficulty levels, high score tracking, and various scenes, including a start menu, help screen, and score display. The objective is to collect all coins in the maze and avoid the ghosts to win.
 
-## Installation
-### Prerequisites
-- .NET 8.0 or higher
-- MonoGame 3.8.2 or higher
-
-### Steps
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yangchiayin/ghosthunters.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd ghosthunters
-    ```
-
-3. **Build the project**:
-    ```bash
-    dotnet build
-    ```
-
-4. **Run the game**:
-    ```bash
-    dotnet run
-    ```
-
 ## How to Play
 - **Start the game** and choose your preferred **difficulty level**: Easy, Medium, or Hard.
 - Use the **arrow keys** to navigate your player through the maze.
@@ -82,12 +56,3 @@
 ![Picture3](https://github.com/user-attachments/assets/ee498a3a-1fc6-44c9-8f66-3508e97407cf)
 ![Picture2](https://github.com/user-attachments/assets/a9edf8ef-0fc2-4de3-80c7-09fbef8184df)
 ![Picture1](https://github.com/user-attachments/assets/6915f27b-1aed-4578-b513-f21a2ec98f48)
-
-
-
-## Credits
-- **Developed by**: Yang Chia Yin
-- **Built with**: [MonoGame](https://www.monogame.net/) - an open-source implementation of the Microsoft XNA Framework.
-
-Feel free to contribute to this project by submitting issues or pull requests!
-
